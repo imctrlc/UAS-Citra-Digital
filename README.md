@@ -12,6 +12,8 @@ Sistem identifikasi jenis motif batik secara real-time berbasis Computer Vision 
 4. 231011403152  -  Revaldi Ridhwan
 5. 231011400511  -  Sadam Sofyan
 
+link YouTube:
+https://youtu.be/fxIGHoEeLgw?si=5tQ7uaBCGSvurdJG
 ---
 
 ## Deskripsi Projek
